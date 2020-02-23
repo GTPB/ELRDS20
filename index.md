@@ -30,11 +30,7 @@ schemadotorg:
   # Contributor info
   contributor:
     - "@type": Person
-      name: "CO-AUTHOR_1"
-    - "@type": Person
-      name: "CO-AUTHOR_2"
-    - "@type": Person
-      name: "CO-AUTHOR_3"
+      name: "Barbara Vreede"
 
   # License & Language & url
   license: https://creativecommons.org/licenses/by/4.0/
@@ -43,19 +39,31 @@ schemadotorg:
 ---
 
 ## Course Description
+R is a powerful scripting language for data handling, data visualization, and statistics. In this workshop, we aim to give you the tools to start exploring R and all it has to offer by yourself.
 
+The course will take you from the very basics in R syntax, to exploring and understanding data using the Tidyverse: opinionated packages that are specifically developed for data science. The most famous of these packages is ggplot, a key tool for data visualization, to which we will devote a large portion of this workshop. We will also take some time to understand datasets and their architecture, preparing you to handle your own data in a clean, robust, and reproducible manner.
+
+We will work in RStudio and introduce R as well as R Markdown: this is a great way to combine code and its output with text, allowing you to code in a narrative and intuitive way. 
 
 ## Target Audience
+Entry level R users.
 
+## Program
+### Day 1
+- Morning: basics of R: R syntax, data types, basic programming features
+- Afternoon: data architecture, introduction to the Tidyverse
 
-## Detailed Program
-
+### Day 2
+- Morning: data science with tidyverse: exploratory data analysis
+- Afternoon: reporting, modeling, and visualization
 
 ---
 
 ### Learning objectives
 
 ### Instructors
+**Barbara Vreede**
+After defending her PhD in Evolutionary Biology at the Gulbenkian Institute in 2012, Barbara learned R as a postdoc, and has now ended up at the University Library in Utrecht, the Netherlands. There she developed a highly popular, single-day workshop that introduces new users to R. The wide variety of people attending this workshop, using R for their own distinct purposes, is one of the main things that inspires her to keep going, and keep learning. She is very excited to return to the IGC with an expanded version of this workshop.
 
 ---
 
